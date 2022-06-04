@@ -3,7 +3,10 @@ html{
 }
 body{
     max-width: 100%;
+    background-color: gray;
+    color: blue;
 }
+
 div{
     max-width: 100%;
 }
